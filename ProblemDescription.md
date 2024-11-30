@@ -1,4 +1,4 @@
-# Train Reservation System - Programming Assignment
+# Train Reservation System - Programming Exam
 
 ## Overview
 
